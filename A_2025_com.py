@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
-from mpl_toolkits.mplot3d import Axes3D
-import seaborn as sns
 
 # 设置绘图风格，符合学术论文标准
 plt.style.use('seaborn-v0_8-whitegrid')
